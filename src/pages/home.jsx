@@ -63,16 +63,20 @@ export function Home() {
                 className="mb-3 font-bold"
                 color="blue-gray"
               >
-                Trabajamos con pasión
+                Un Viaje de Impacto y Compromiso Social
               </Typography>
               <Typography className="mb-8 font-normal text-blue-gray-500">
-              Mejora la calidad del servicio al cliente,
-              con una experiencia en la gestión de proyectos complejos, 
-              la resolución de problemas y la toma de decisiones estratégicas.
+              Decidí tomar acción para hacer una diferencia en mi comunidad después de presenciar el impacto de la contaminación. 
+              Motivada por un deseo de contribuir al bienestar del planeta, lideré un proyecto de innovación y responsabilidad 
+              social en mi empresa anterior.
                 <br />
                 <br />
-                Implementación de estrategias que han mejorado la 
-                eficiencia operativa en un 20% (resultando en una reducción de costos del 20%).
+                Implementamos un programa de reciclaje y gestión de residuos que redujo nuestra huella ambiental y 
+                brindó empleo a comunidades desfavorecidas. Ver cómo nuestro esfuerzo transformó vidas y protegió el entorno me llenó de orgullo.
+                <br />
+                <br />
+                Esta experiencia me enseñó que la verdadera innovación va más allá de la rentabilidad; se trata de hacer lo correcto. Me he comprometido a liderar iniciativas que beneficien tanto a mi empresa como a la sociedad, 
+                creyendo que juntos podemos construir un futuro más brillante y sostenible.
               </Typography>
               <Button variant="filled">read more</Button>
             </div>
@@ -92,10 +96,16 @@ export function Home() {
                     color="blue-gray"
                     className="mb-3 mt-2 font-bold"
                   >
-                    Servicios de primera clase
+                     Trabajamos con pasión
                   </Typography>
                   <Typography className="font-normal text-blue-gray-500">
-                  Crea experiencias memorables y deja una huella duradera.
+                  Mejora la calidad del servicio al cliente,
+              con una experiencia en la gestión de proyectos complejos, 
+              la resolución de problemas y la toma de decisiones estratégicas.
+                <br />
+                <br />
+                Implementación de estrategias que han mejorado la 
+                eficiencia operativa en un 20% (resultando en una reducción de costos del 20%).
                   </Typography>
                 </CardBody>
               </Card>
